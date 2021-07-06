@@ -1,4 +1,4 @@
-#TSS Python LS
+# TSS Python LS
 
-##Week 1
+## Week 1
 Assignments completed.
