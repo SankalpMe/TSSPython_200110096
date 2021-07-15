@@ -1,4 +1,16 @@
 # TSS Python LS
 
-## Week 1
-Assignments completed.
+## Assignments
+
+[ ] Week 1
+
+[ ] Week 2
+
+[ ] Week 3
+
+[ ] Week 4
+
+---
+
+Week 1 && Week 2
+Completed .ipynb files attached for both
