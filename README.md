@@ -6,11 +6,15 @@
 
 - [x] Week 2
 
-- [ ] Week 3
+- [x] Week 3
 
 - [ ] Week 4
 
 ---
+## Notice Board
 
-Week 1 && Week 2
-Completed .ipynb files attached for both
+* Week3 `snake.py` implemented. 
+* Week 1 and Week 2
+Completed `.ipynb` files attached for all assignments
+
+
